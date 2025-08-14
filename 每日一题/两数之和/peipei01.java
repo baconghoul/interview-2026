@@ -18,6 +18,14 @@ public class peipei01 {
         System.out.println("res:[" + res[0] + "," + res[1] + "]");
     }
 
+    // 两数之和
+    static class Solution01 {
+        public int[] twoSum(int[] nums, int target) {
+            int[] res = new int[2];
+
+        }
+    }
+
 
     static class Solution {
         public int[] twoSum(int[] nums, int target) {
